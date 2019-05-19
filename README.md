@@ -1,2 +1,5 @@
 # Nisum
-Work for Nisum Client KW
+project implementation for williams sonoma for code test.
+
+How to use:
+
